@@ -1,0 +1,24 @@
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 11 : unknown member 'LATB4' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 11 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 12 : unknown member 'LATB5' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 12 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 13 : unknown member 'LATB6' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 13 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 24 : unknown member 'LATB4' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 24 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 25 : unknown member 'LATB5' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 25 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 26 : unknown member 'LATB6' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 26 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 38 : unknown member 'LATB4' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 38 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 39 : unknown member 'LATB5' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 39 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 40 : unknown member 'LATB6' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 40 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 54 : unknown member 'LATB4' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 54 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 55 : unknown member 'LATB5' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 55 : type mismatch in assignment
+Error[1205] C:\MCC18\example\getting_started\program1\bozlibled.c 56 : unknown member 'LATB6' in '__tag_36'
+Error[1131] C:\MCC18\example\getting_started\program1\bozlibled.c 56 : type mismatch in assignment
